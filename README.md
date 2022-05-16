@@ -11,6 +11,8 @@ Includes puma to run the process as a daemon process in the background
 
 ## How to setup
  - Clone this git repository
+
+   `git clone git@gitlab.com:nini1294/roda-template-simple.git <your-folder-nameP>`
  - `cd` into the directory
  - Remove the `.git` directory
  - run `bundle install`
